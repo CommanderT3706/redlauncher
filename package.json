@@ -1,0 +1,14 @@
+{
+  "name": "redlauncher",
+  "version": "0.0.1",
+  "description": "A modern Minecraft launcher",
+  "main": "src/main.js",
+  "author": "CommanderT3706",
+  "license": "GNU General Public License v3.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^20.0.1"
+  }
+}
